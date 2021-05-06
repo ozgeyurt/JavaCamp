@@ -1,0 +1,17 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	      
+	        
+	        Student student=new Student();
+	        student.firstName="özge";
+	        student.lastName="Ýnan";
+	        
+	        Cources cources= new Cources();
+	        cources.courseName="C#";
+	        
+	}
+
+}

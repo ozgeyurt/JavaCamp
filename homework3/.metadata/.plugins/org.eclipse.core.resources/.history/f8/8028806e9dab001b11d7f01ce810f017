@@ -1,0 +1,14 @@
+
+public class CourcesManager {
+	public void add(Cources cources) {
+		System.out.println(cources.courseName+ " Kursu baþarýyla eklendi");
+		
+	}
+	public void multiple(Cources[] cources) {
+		for(Cources cource: cources) {
+			add(cource);
+		}
+		
+	}
+
+}

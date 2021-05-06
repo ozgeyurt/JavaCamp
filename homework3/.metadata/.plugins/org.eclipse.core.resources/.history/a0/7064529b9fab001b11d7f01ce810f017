@@ -1,0 +1,11 @@
+
+public class CourcesManager {
+	public void add(Cources cources) {
+		System.out.println(cources.courseName+ " Kursu baþarýyla eklendi");
+		
+	}
+	
+		
+	}
+
+

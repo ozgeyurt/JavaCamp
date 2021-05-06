@@ -1,0 +1,25 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	        User user=new User();
+	        user.setId(1);
+	        user.setFirstName("özge");
+	        user.setLastName("inan");
+	        user.setEmail("ozge.yurt@gmail.com");
+	        user.setPassword("345rtyuty");
+	        
+	        UserManager userManager=new UserManager();
+	        userManager.add(user);
+	        
+	        Student student= new Student();
+	        student.setFirstName("özge");
+	        student.courses="java script";
+	        
+	        StudentManager studentManager=new StudentManager();
+	        studentManager.add(student);
+	       
+	}
+
+}
