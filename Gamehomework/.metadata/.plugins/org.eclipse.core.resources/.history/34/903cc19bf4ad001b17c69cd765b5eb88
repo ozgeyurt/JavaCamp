@@ -1,0 +1,19 @@
+import Entity.User;
+
+public class Main {
+
+	public static void main(String[] args) {
+		User user1=new User();
+		user1.id=1;
+		user1.playerNumber="478965";
+		user1.setIdentityNumber("17839649928");
+		user1.setFirstName("ÖZGE");
+		user1.setLastName("ÝNAN");
+		user1.setBirthYear(1993);
+		
+		
+		
+
+	}
+
+}

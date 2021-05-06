@@ -1,0 +1,14 @@
+package Adaptors;
+
+import Abstract.UserCheckService;
+import Entity.User;
+
+public class MernisServiceAdapter implements UserCheckService{
+
+	@Override
+	public boolean CheckIfRealPerson(User user) {
+		
+		return false;
+	}
+
+}

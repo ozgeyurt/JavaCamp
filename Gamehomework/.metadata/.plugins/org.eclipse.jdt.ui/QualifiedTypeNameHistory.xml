@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="Abstract.UserService"/>
+    <fullyQualifiedTypeName name="Entity.Player"/>
+    <fullyQualifiedTypeName name="Abstract.PlayerService"/>
+    <fullyQualifiedTypeName name="Abstract.UserCheckService"/>
+    <fullyQualifiedTypeName name="Abstract.GameService"/>
+    <fullyQualifiedTypeName name="Abstract.CampaignService"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy"/>
+    <fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+    <fullyQualifiedTypeName name="java.time.ZoneId"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublicSoap"/>
+    <fullyQualifiedTypeName name="Concrete.UserManager"/>
+    <fullyQualifiedTypeName name="Adaptors.MernisServiceAdapter"/>
+    <fullyQualifiedTypeName name="Entity.User"/>
+    <fullyQualifiedTypeName name="Entity.Game"/>
+    <fullyQualifiedTypeName name="Abstract.SaleService"/>
+    <fullyQualifiedTypeName name="Concrete.GameManager"/>
+    <fullyQualifiedTypeName name="Entity.Campaign"/>
+    <fullyQualifiedTypeName name="Concrete.CampaignManager"/>
+    <fullyQualifiedTypeName name="Concrete.SaleManager"/>
+</qualifiedTypeNameHistroy>

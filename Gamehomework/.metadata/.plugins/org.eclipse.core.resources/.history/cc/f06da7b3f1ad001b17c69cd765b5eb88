@@ -1,0 +1,24 @@
+package Adaptors;
+
+
+
+import Abstract.UserCheckService;
+
+import Entity.User;
+import tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy;
+
+
+public class MernisServiceAdapter implements UserCheckService{
+	KPSPublicSoapProxy 
+	
+	
+
+	@Override
+	public boolean CheckIfRealPerson(User user) {
+		return false;
+		
+		
+		
+	}
+
+}
