@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+C:\Users\selma\OneDrive\Masaüstü\CoffeShop\.metadata\.plugins\org.eclipse.jdt.core
+807780554.index
+2134121989.index
+3832795712.index
+866200760.index
+872855075.index
+1692805893.index
+1642175237.index
+4116775090.index
+2841507259.index
+1619249765.index

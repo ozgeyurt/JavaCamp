@@ -1,0 +1,14 @@
+import java.rmi.RemoteException;
+
+public class Main {
+
+	public static void main(String[] args) throws RemoteException {
+
+
+		KPSPublicSoapProxy kpsPublic =new KPSPublicSoapProxy();
+		Long.parseLong("tc"),"AD(Büyük)","SOYAD(BÜYÜK)",1993 // doðumyýlý
+		
+
+	}
+
+}

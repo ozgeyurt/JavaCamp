@@ -1,0 +1,22 @@
+import java.rmi.RemoteException;
+
+import javax.security.auth.kerberos.KerberosPrincipal;
+
+public class MernisServiceAdapter implements CustomerCheckService{
+
+	@Override
+	public boolean CheckIfRealPerson(Customer customer) {
+
+		KPSPublicSoap soapClient = new KPSPublicSoapProxy();
+		boolean result= false;
+		try {
+			  result = soapClient.TCKimlikNoDogrula(Long.parseLong(customer.nationalityId, customer.firstName, customer.lastName, customer.dateOfBrith.getYear());
+		  } catch (NumberFormatException e) {
+			   e.printStackTrace();
+		  } catch (RemoteException e) {
+		       e.printStackTrace();
+		  }
+		 return result;
+	}
+
+}

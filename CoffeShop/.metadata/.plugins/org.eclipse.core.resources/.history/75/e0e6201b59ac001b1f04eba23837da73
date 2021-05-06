@@ -1,0 +1,12 @@
+package Entities;
+
+import java.time.LocalDate;
+
+public class Customer {
+	int id;
+	String firstName;
+	String lastName;
+	LocalDate dateOfBrith;
+	String nationalityId;
+
+}

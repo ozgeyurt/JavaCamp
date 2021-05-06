@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="Abstract.CustomerService"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="CustomerCheckService"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublic"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="BaseCustomerManager"/>
+    <fullyQualifiedTypeName name="NeroCustomerManager"/>
+    <fullyQualifiedTypeName name="MernisServiceAdapter"/>
+    <fullyQualifiedTypeName name="StarbucksCustomerManager"/>
+</qualifiedTypeNameHistroy>
